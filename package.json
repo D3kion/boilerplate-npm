@@ -1,5 +1,14 @@
 {
   "name": "fcc-learn-npm-package-json",
+  "version": "1.0.0",
+  "description": "freeCodeCamp -- Back-end development and apis -- Part 1",
+  "keywords": [
+    "learn",
+    "freecodecamp",
+    "backend",
+    "npm"
+  ],
+  "license": "MIT",
   "author": {
     "name": "Roman Salikov",
     "url": "https://github.com/D3kion"
